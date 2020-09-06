@@ -1,5 +1,6 @@
 import random
 
+
 small = "abcdefghijklmnopqrstuvwxyz"
 big = "ABCDEFGHIJKLMNOPQRSTUVWXYS"
 num = "123456789"
