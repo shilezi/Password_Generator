@@ -9,5 +9,5 @@ all = symbols+num+small
 lenth = 8
 passs = "".join(random.sample(all,lenth))
 
-#svhgsvhdgjhdhsdhhfdjfjds
+svhgsvhdgjhdhsdhhfdjfjds
 print(passs)
