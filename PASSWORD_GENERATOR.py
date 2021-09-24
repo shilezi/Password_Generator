@@ -4,7 +4,7 @@ import random
 small = "abcdefghijklmnopqrstuvwxyz"
 big = "ABCDEFGHIJKLMNOPQRSTUVWXYS"
 num = "123456789"
-symbols = "!@#$%^&()_+<>?":{}|[]"
+symbols = "!@#$%^&()_+<>?:{}|[]"
 
 all = symbols+num+small
 lenth = 12
